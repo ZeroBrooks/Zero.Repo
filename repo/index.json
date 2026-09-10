@@ -2,7 +2,9 @@
   "name": "Zero Repo",
   "badgeLabel": "Zero",
   "signingKey": "00000000000000000000000000000000",
-  "contact": "https://github.com/ZeroBrooks",
+  "contact": {
+    "url": "https://github.com/ZeroBrooks"
+  },
   "sources": [
     {
       "name": "AnimeManga ITA",
