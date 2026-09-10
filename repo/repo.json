@@ -1,0 +1,82 @@
+[
+  {
+    "name": "AnimeManga ITA",
+    "pkg": "eu.kanade.tachiyomi.extension.it.animemanga",
+    "lang": "it",
+    "code": 1,
+    "version": "1.0",
+    "apk": "animemanga_ita.apk"
+  },
+  {
+    "name": "ComicITA Mirror",
+    "pkg": "eu.kanade.tachiyomi.extension.it.comicita",
+    "lang": "it",
+    "code": 1,
+    "version": "1.0",
+    "apk": "comicita_mirror.apk"
+  },
+  {
+    "name": "FumettiCloud",
+    "pkg": "eu.kanade.tachiyomi.extension.it.fumetticloud",
+    "lang": "it",
+    "code": 1,
+    "version": "1.0",
+    "apk": "fumetticloud.apk"
+  },
+  {
+    "name": "ItaScan",
+    "pkg": "eu.kanade.tachiyomi.extension.it.itascan",
+    "lang": "it",
+    "code": 1,
+    "version": "1.0",
+    "apk": "itascan.apk"
+  },
+  {
+    "name": "ItaScan Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.it.itascancomics",
+    "lang": "it",
+    "code": 1,
+    "version": "1.0",
+    "apk": "itascan_comics.apk"
+  },
+  {
+    "name": "MangaEden",
+    "pkg": "eu.kanade.tachiyomi.extension.it.mangaeden",
+    "lang": "it",
+    "code": 1,
+    "version": "1.0",
+    "apk": "mangaeden.apk"
+  },
+  {
+    "name": "MangaTube",
+    "pkg": "eu.kanade.tachiyomi.extension.it.mangatube",
+    "lang": "it",
+    "code": 1,
+    "version": "1.0",
+    "apk": "mangatube.apk"
+  },
+  {
+    "name": "MangaTube Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.it.mangatubecomics",
+    "lang": "it",
+    "code": 1,
+    "version": "1.0",
+    "apk": "mangatube_comics.apk"
+  },
+  {
+    "name": "MangaWorld",
+    "pkg": "eu.kanade.tachiyomi.extension.it.mangaworld",
+    "lang": "it",
+    "code": 1,
+    "version": "1.0",
+    "apk": "mangaworld.apk"
+  },
+  {
+    "name": "ScanComicsITA",
+    "pkg": "eu.kanade.tachiyomi.extension.it.scancomicsita",
+    "lang": "it",
+    "code": 1,
+    "version": "1.0",
+    "apk": "scancomicsita.apk"
+  }
+]
