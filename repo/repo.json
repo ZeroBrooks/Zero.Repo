@@ -5,7 +5,7 @@
     "lang": "it",
     "code": 1,
     "version": "1.0",
-    "apk": "animemanga_ita.apk"
+    "apk": "extensions/animemanga_ita.apk"
   },
   {
     "name": "ComicITA Mirror",
@@ -13,7 +13,7 @@
     "lang": "it",
     "code": 1,
     "version": "1.0",
-    "apk": "comicita_mirror.apk"
+    "apk": "extensions/comicita_mirror.apk"
   },
   {
     "name": "FumettiCloud",
@@ -21,7 +21,7 @@
     "lang": "it",
     "code": 1,
     "version": "1.0",
-    "apk": "fumetticloud.apk"
+    "apk": "extensions/fumetticloud.apk"
   },
   {
     "name": "ItaScan",
@@ -29,7 +29,7 @@
     "lang": "it",
     "code": 1,
     "version": "1.0",
-    "apk": "itascan.apk"
+    "apk": "extensions/itascan.apk"
   },
   {
     "name": "ItaScan Comics",
@@ -37,7 +37,7 @@
     "lang": "it",
     "code": 1,
     "version": "1.0",
-    "apk": "itascan_comics.apk"
+    "apk": "extensions/itascan_comics.apk"
   },
   {
     "name": "MangaEden",
@@ -45,7 +45,7 @@
     "lang": "it",
     "code": 1,
     "version": "1.0",
-    "apk": "mangaeden.apk"
+    "apk": "extensions/mangaeden.apk"
   },
   {
     "name": "MangaTube",
@@ -53,7 +53,7 @@
     "lang": "it",
     "code": 1,
     "version": "1.0",
-    "apk": "mangatube.apk"
+    "apk": "extensions/mangatube.apk"
   },
   {
     "name": "MangaTube Comics",
@@ -61,7 +61,7 @@
     "lang": "it",
     "code": 1,
     "version": "1.0",
-    "apk": "mangatube_comics.apk"
+    "apk": "extensions/mangatube_comics.apk"
   },
   {
     "name": "MangaWorld",
@@ -69,7 +69,7 @@
     "lang": "it",
     "code": 1,
     "version": "1.0",
-    "apk": "mangaworld.apk"
+    "apk": "extensions/mangaworld.apk"
   },
   {
     "name": "ScanComicsITA",
@@ -77,6 +77,6 @@
     "lang": "it",
     "code": 1,
     "version": "1.0",
-    "apk": "scancomicsita.apk"
+    "apk": "extensions/scancomicsita.apk"
   }
 ]
