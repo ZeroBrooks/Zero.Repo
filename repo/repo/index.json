@@ -1,0 +1,85 @@
+{
+  "name": "Zero Repo",
+  "sources": [
+    {
+      "name": "AnimeManga ITA",
+      "pkgName": "eu.kanade.tachiyomi.extension.it.animemanga",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apkUrl": "https://raw.githubusercontent.com/ZeroBrooks/Zero.Repo/main/repo/extensions/animemanga_ita.apk",
+      "lang": "it"
+    },
+    {
+      "name": "ComicITA Mirror",
+      "pkgName": "eu.kanade.tachiyomi.extension.it.comicita",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apkUrl": "https://raw.githubusercontent.com/ZeroBrooks/Zero.Repo/main/repo/extensions/comicita_mirror.apk",
+      "lang": "it"
+    },
+    {
+      "name": "FumettiCloud",
+      "pkgName": "eu.kanade.tachiyomi.extension.it.fumetticloud",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apkUrl": "https://raw.githubusercontent.com/ZeroBrooks/Zero.Repo/main/repo/extensions/fumetticloud.apk",
+      "lang": "it"
+    },
+    {
+      "name": "ItaScan",
+      "pkgName": "eu.kanade.tachiyomi.extension.it.itascan",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apkUrl": "https://raw.githubusercontent.com/ZeroBrooks/Zero.Repo/main/repo/extensions/itascan.apk",
+      "lang": "it"
+    },
+    {
+      "name": "ItaScan Comics",
+      "pkgName": "eu.kanade.tachiyomi.extension.it.itascancomics",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apkUrl": "https://raw.githubusercontent.com/ZeroBrooks/Zero.Repo/main/repo/extensions/itascan_comics.apk",
+      "lang": "it"
+    },
+    {
+      "name": "MangaEden",
+      "pkgName": "eu.kanade.tachiyomi.extension.it.mangaeden",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apkUrl": "https://raw.githubusercontent.com/ZeroBrooks/Zero.Repo/main/repo/extensions/mangaeden.apk",
+      "lang": "it"
+    },
+    {
+      "name": "MangaTube",
+      "pkgName": "eu.kanade.tachiyomi.extension.it.mangatube",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apkUrl": "https://raw.githubusercontent.com/ZeroBrooks/Zero.Repo/main/repo/extensions/mangatube.apk",
+      "lang": "it"
+    },
+    {
+      "name": "MangaTube Comics",
+      "pkgName": "eu.kanade.tachiyomi.extension.it.mangatubecomics",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apkUrl": "https://raw.githubusercontent.com/ZeroBrooks/Zero.Repo/main/repo/extensions/mangatube_comics.apk",
+      "lang": "it"
+    },
+    {
+      "name": "MangaWorld",
+      "pkgName": "eu.kanade.tachiyomi.extension.it.mangaworld",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apkUrl": "https://raw.githubusercontent.com/ZeroBrooks/Zero.Repo/main/repo/extensions/mangaworld.apk",
+      "lang": "it"
+    },
+    {
+      "name": "ScanComicsITA",
+      "pkgName": "eu.kanade.tachiyomi.extension.it.scancomicsita",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apkUrl": "https://raw.githubusercontent.com/ZeroBrooks/Zero.Repo/main/repo/extensions/scancomicsita.apk",
+      "lang": "it"
+    }
+  ]
+}
