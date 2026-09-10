@@ -7,3 +7,5 @@ Repository personale per estensioni Komikku (ITA).
 Usa questo link dentro Komikku:
 
 https://raw.githubusercontent.com/ZeroBrooks/Zero.Repo/refs/heads/main/repo/index.pb
+
+https://raw.githubusercontent.com/ZeroBrooks/Zero.Repo/main/repo/index.json
